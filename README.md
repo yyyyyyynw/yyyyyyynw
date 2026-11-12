@@ -40,7 +40,7 @@ I like problems with a "does it actually work?" test at the end — most of what
 turns into a small system I can run, measure, and break on purpose.
 
 - 🎓 BEng in **Information Engineering**, The Chinese University of Hong Kong
-- 🔐 Currently building **[Beyond TOTP](https://github.com/yyyyyyynw/IERG4220Project)** — a testbed comparing passwords + TOTP, synced passkeys, and hardware FIDO2 keys
+- 🔐 Currently building **[Beyond TOTP](https://github.com/yyyyyyynw/IERG4220Project)** — a reproducible browser lab comparing passwords + TOTP, synced passkeys, and hardware FIDO2 keys
 - 🌐 Interested in **authentication, web systems, and applied Python**
 - 🧪 I prefer projects I can measure: reproducible experiments beat slideware
 - 🧰 Working with **Python, Flask, SQLite, HTML/CSS/JS, Git**
@@ -76,8 +76,8 @@ turns into a small system I can run, measure, and break on purpose.
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[Beyond TOTP](https://github.com/yyyyyyynw/IERG4220Project)** | IERG4220 final project: compares password + TOTP, synced passkeys, and hardware FIDO2 keys on phishing resistance and account recovery — with a browser lab, reproducible experiments, and a written report. | `Python` · `Flask` · `WebAuthn` |
-| **[PhoneNumberQQ](https://github.com/yyyyyyynw/PhoneNumberQQ)** | Python batch lookup tool that works through a CSV of phone numbers and saves results as it goes, so long runs can resume. | `Python` · `CSV` |
+| **[Beyond TOTP](https://github.com/yyyyyyynw/IERG4220Project)** | IERG4220 final project: compares password + TOTP, synced passkeys, and hardware FIDO2 keys on phishing resistance and account recovery. | `Python` · `Flask` · `WebAuthn` |
+| **[PhoneNumberQQ](https://github.com/yyyyyyynw/PhoneNumberQQ)** | Python batch lookup tool that works through a CSV of phone numbers and resumes long runs where they stopped. | `Python` · `CSV` |
 | **[IERG4320](https://github.com/yyyyyyynw/IERG4320)** | Course project: a website that recognises song lyrics. | `Web` |
 | **[IERG3810](https://github.com/yyyyyyynw/IERG3810)** | Labs and term project for IERG3810 (2025–26 Term 1). | `Coursework` |
 
